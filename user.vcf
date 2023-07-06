@@ -7,7 +7,7 @@ ORG:B.I.N.S.S.;
 TITLE:Marketing Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:lneubert@binss.de
 TEL;type=WORK;type=VOICE:+015778877384
-item1.ADR;type=WORK;type=pref:Saaler Bogen 2\n Berlin;;;;;13088;Deutschland
+item1.ADR;type=WORK;type=pref:Saaler Bogen 2\n\Berlin;;;;;13088;Deutschland
 item1.X-ABADR:sg
 item2.URL;type=pref:www.binss.de
 item2.X-ABLabel:_$!<HomePage>!$_
